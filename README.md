@@ -1,4 +1,4 @@
-# 🔍**Detection of Internet-facing sensitive assets**
+# 🔍**Devices Accidentally Exposed to the Internet**
 
 ![ChatGPT Image Apr 4, 2025 at 04_49_10 PM](https://github.com/user-attachments/assets/bd8532e1-0c45-41ab-9379-4c18c1f74361)
 
